@@ -1,9 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Sixtyfour+Convergence&display=swap');
+
 html, body {
   margin: 0;
 }
 
 html {
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Sixtyfour Convergence';
   height: 100%;
 }
 
@@ -13,7 +15,7 @@ body {
 }
 
 h1 {
-  font-size: 2rem;
+  font-size: 4rem;
   letter-spacing: -1px;
   position: absolute;
   margin: 0;
