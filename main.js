@@ -96,3 +96,7 @@ function loop() {
 }
 
 loop();
+
+setTimeout(function(){
+  let helloThere = prompt("You've been watching this for three whole minutes. You alright?")
+}, 180000);
